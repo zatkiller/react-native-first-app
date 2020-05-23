@@ -1,3 +1,0 @@
-View tag is for styling and structuring and laying out the content
-Text output uses text output
-Image is for image
